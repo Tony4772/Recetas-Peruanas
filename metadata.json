@@ -1,0 +1,6 @@
+{
+  "name": "Andean Culinary - Sabores del Perú",
+  "description": "Authentic Peruvian culinary recipe companion crafted with Andean Material 3 design system, step-by-step interactive cooking mode, and native pantry guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

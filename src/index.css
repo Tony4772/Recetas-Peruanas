@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@layer theme {
+  :root {
+    --font-display: 'Epilogue', system-ui, -apple-system, sans-serif;
+    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background-color: #fef9f1;
+  color: #1d1c17;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.font-display {
+  font-family: 'Epilogue', sans-serif;
+}
+
+/* Warm subtle scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f2ede5;
+}
+::-webkit-scrollbar-thumb {
+  background: #dbc2b0;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #887364;
+}
