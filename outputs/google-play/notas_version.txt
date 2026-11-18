@@ -1,0 +1,6 @@
+Versión 1.0.0
+
+• Explora recetas de la Costa, la Sierra y la Selva.
+• Cocina con instrucciones paso a paso y temporizadores.
+• Marca favoritos y organiza un plan semanal.
+• Crea y comparte tu lista del mercado.
