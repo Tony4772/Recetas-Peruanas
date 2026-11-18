@@ -1,0 +1,56 @@
+com.saborperu.app-lifecycle-viewmodel-compose-release-0 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\0b6a7ba74cd5555a42ef54ef9ecf518c\transformed\lifecycle-viewmodel-compose-release\res
+com.saborperu.app-ui-unit-release-1 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\10627155783e86d7c6f9704ba5334170\transformed\ui-unit-release\res
+com.saborperu.app-lifecycle-runtime-ktx-release-2 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\137efedbbb61fcc85ab23423b88fd3dd\transformed\lifecycle-runtime-ktx-release\res
+com.saborperu.app-ui-graphics-release-3 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\191c9e07ce4a699b87a72306b73e7c07\transformed\ui-graphics-release\res
+com.saborperu.app-activity-1.10.0-4 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\19aad9f6f38ae997d55ff41b896b1e9f\transformed\activity-1.10.0\res
+com.saborperu.app-core-1.15.0-5 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\1a61afd81fb3678f6062741d553ee8dc\transformed\core-1.15.0\res
+com.saborperu.app-navigation-common-ktx-2.8.9-6 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\4f94cb7435ef5043a23baa9884ea11df\transformed\navigation-common-ktx-2.8.9\res
+com.saborperu.app-lifecycle-viewmodel-ktx-2.8.7-7 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\55c98877ac50a5f036e3dc197694f80a\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.saborperu.app-runtime-saveable-release-8 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\6b081638f16738a40dfa4f76dec5c134\transformed\runtime-saveable-release\res
+com.saborperu.app-tracing-1.2.0-9 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\743608c32a5fb84780ba2cac8aa6b2d6\transformed\tracing-1.2.0\res
+com.saborperu.app-material-release-10 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\760364dd7761c6842e36ccbfe38f36eb\transformed\material-release\res
+com.saborperu.app-ui-geometry-release-11 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\790b952599773c4ce5828ada861d100f\transformed\ui-geometry-release\res
+com.saborperu.app-activity-compose-1.10.0-12 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\7cc756251896493c280f93e3373e7bc3\transformed\activity-compose-1.10.0\res
+com.saborperu.app-graphics-path-1.0.1-13 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\7feb24f3a60b178112bba259aa9fd5da\transformed\graphics-path-1.0.1\res
+com.saborperu.app-animation-core-release-14 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\80e8f37b95926b9bf1902574e5f9292f\transformed\animation-core-release\res
+com.saborperu.app-lifecycle-process-2.8.7-15 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\827890458e7205a872658023ca1cc1c7\transformed\lifecycle-process-2.8.7\res
+com.saborperu.app-annotation-experimental-1.4.1-16 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\8450e048d333a8c755755d90a0b83689\transformed\annotation-experimental-1.4.1\res
+com.saborperu.app-ui-release-17 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\84f120bdaa76fc96c4cd3f2c5163ee6a\transformed\ui-release\res
+com.saborperu.app-foundation-release-18 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\8bd71523f24a2f60d25b7d585d848992\transformed\foundation-release\res
+com.saborperu.app-navigation-runtime-2.8.9-19 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\8c3bf2b44afbc52aa5312947489876a5\transformed\navigation-runtime-2.8.9\res
+com.saborperu.app-material3-release-20 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\902fde261c9d6b549e5bf74d8b5fc53a\transformed\material3-release\res
+com.saborperu.app-lifecycle-viewmodel-savedstate-2.8.7-21 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\907b857b14a2d0f8e21f505c17076b8a\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.saborperu.app-ui-text-release-22 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\93a68eeb47d8f1d5d1a1201a767648c0\transformed\ui-text-release\res
+com.saborperu.app-foundation-layout-release-23 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\a19edf54bb530a0c1ab15655bf6272ed\transformed\foundation-layout-release\res
+com.saborperu.app-core-runtime-2.2.0-24 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\a6e76470f985bc8557550a707e25050b\transformed\core-runtime-2.2.0\res
+com.saborperu.app-savedstate-ktx-1.2.1-25 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\a9e6f9fe5d100d34d04ce738184a7d45\transformed\savedstate-ktx-1.2.1\res
+com.saborperu.app-lifecycle-runtime-release-26 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\aa658d95c931927cf6f4cbbc63014c68\transformed\lifecycle-runtime-release\res
+com.saborperu.app-navigation-runtime-ktx-2.8.9-27 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\aab30c4a1e693dab5445c013f78f322a\transformed\navigation-runtime-ktx-2.8.9\res
+com.saborperu.app-lifecycle-viewmodel-release-28 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\ab439bf0ee0bd4995152ba76549413a0\transformed\lifecycle-viewmodel-release\res
+com.saborperu.app-navigation-common-2.8.9-29 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\b083fac5d64b94c0732e743a0dca0b49\transformed\navigation-common-2.8.9\res
+com.saborperu.app-profileinstaller-1.4.0-30 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\baf6556ac6d559bdb3ac65e7be4aba4e\transformed\profileinstaller-1.4.0\res
+com.saborperu.app-material-ripple-release-31 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\bbca86250524cb6e50788f65e4d68de6\transformed\material-ripple-release\res
+com.saborperu.app-emoji2-1.3.0-32 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\bd6f95dcd6c1f117cf0bf309e8404f93\transformed\emoji2-1.3.0\res
+com.saborperu.app-savedstate-1.2.1-33 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\c05c95042f78f44a9d3095239047b936\transformed\savedstate-1.2.1\res
+com.saborperu.app-ui-tooling-data-release-34 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\c0f30e9c24f696f3f9af49961e17db65\transformed\ui-tooling-data-release\res
+com.saborperu.app-material-icons-extended-release-35 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\cb230b6888a9aa9f41aa3f5c70dbcb61\transformed\material-icons-extended-release\res
+com.saborperu.app-lifecycle-livedata-core-2.8.7-36 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\cd37bc2db23e62fa825484316c124505\transformed\lifecycle-livedata-core-2.8.7\res
+com.saborperu.app-activity-ktx-1.10.0-37 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\cd4294b10acb33584ca7eefe158d4d88\transformed\activity-ktx-1.10.0\res
+com.saborperu.app-animation-release-38 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\d04ab22fc45844bb0c5cdcdaf9f35a4f\transformed\animation-release\res
+com.saborperu.app-ui-util-release-39 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\d65e169f8b044c1b3e3d0f4be394aaf2\transformed\ui-util-release\res
+com.saborperu.app-startup-runtime-1.1.1-40 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\d877a1d6f70cf5828631b3884d79ca44\transformed\startup-runtime-1.1.1\res
+com.saborperu.app-runtime-release-41 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\dc4f8f09b7c50667e7d2430a2c30f77c\transformed\runtime-release\res
+com.saborperu.app-ui-tooling-preview-release-42 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\de940ce7efafdd163f268fd71dbc65b2\transformed\ui-tooling-preview-release\res
+com.saborperu.app-customview-poolingcontainer-1.0.0-43 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\df56aed0d05fa6d6e5d6ca225240f2d0\transformed\customview-poolingcontainer-1.0.0\res
+com.saborperu.app-ui-tooling-release-44 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\e2f212c7bc2d4aa1b1295a34b23e01ab\transformed\ui-tooling-release\res
+com.saborperu.app-navigation-compose-2.8.9-45 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\e6696504c35fa7f00e76837f62b097d1\transformed\navigation-compose-2.8.9\res
+com.saborperu.app-core-ktx-1.15.0-46 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\e929267b316b2d5a44d7c6277379eca4\transformed\core-ktx-1.15.0\res
+com.saborperu.app-material-icons-core-release-47 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\eee78d1add680cf164e7611c36b1ad91\transformed\material-icons-core-release\res
+com.saborperu.app-lifecycle-runtime-compose-release-48 C:\Users\Usuario\.gradle\caches\8.11.1\transforms\f29d745fae7bb08a4dc36e01a05202a2\transformed\lifecycle-runtime-compose-release\res
+com.saborperu.app-pngs-49 D:\AndroidStudioProjects\Recetas Peruanas\app\build\generated\res\pngs\debug
+com.saborperu.app-resValues-50 D:\AndroidStudioProjects\Recetas Peruanas\app\build\generated\res\resValues\debug
+com.saborperu.app-packageDebugResources-51 D:\AndroidStudioProjects\Recetas Peruanas\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.saborperu.app-packageDebugResources-52 D:\AndroidStudioProjects\Recetas Peruanas\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.saborperu.app-debug-53 D:\AndroidStudioProjects\Recetas Peruanas\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.saborperu.app-debug-54 D:\AndroidStudioProjects\Recetas Peruanas\app\src\debug\res
+com.saborperu.app-main-55 D:\AndroidStudioProjects\Recetas Peruanas\app\src\main\res

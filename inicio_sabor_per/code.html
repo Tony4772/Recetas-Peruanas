@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+
+<html lang="es"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" name="viewport"/><meta content="mobile_tab" name="shell-type"/><link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@600;700&amp;family=Plus+Jakarta+Sans:wght@400;500;600&amp;display=swap" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base{html,body{width:100vw;margin:0;padding:0;}body{overscroll-behavior:none;}.pb-safe{padding-bottom:env(safe-area-inset-bottom,0px);}.pt-safe{padding-top:env(safe-area-inset-top,0px);}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config = { darkMode: 'class', theme: { extend: { 'colors': { 'primary-container': '#b15f00', 'secondary': '#ac3400', 'primary': '#8d4b00', 'on-tertiary-fixed-variant': '#632892', 'on-secondary-fixed': '#390c00', 'on-surface-variant': '#554336', 'tertiary': '#7940a9', 'on-tertiary-fixed': '#2d004f', 'surface-container-lowest': '#ffffff', 'error': '#ba1a1a', 'on-secondary': '#ffffff', 'on-secondary-fixed-variant': '#832600', 'on-primary-container': '#fffbff', 'surface': '#fef9f1', 'on-error': '#ffffff', 'tertiary-fixed': '#f2daff', 'inverse-surface': '#32302b', 'outline-variant': '#dbc2b0', 'on-tertiary-container': '#fffbff', 'surface-container-low': '#f8f3eb', 'secondary-container': '#fd6b36', 'secondary-fixed': '#ffdbd0', 'error-container': '#ffdad6', 'on-primary': '#ffffff', 'tertiary-container': '#945ac4', 'inverse-primary': '#ffb77d', 'outline': '#887364', 'on-primary-fixed': '#2f1500', 'tertiary-fixed-dim': '#e0b6ff', 'secondary-fixed-dim': '#ffb59d', 'surface-bright': '#fef9f1', 'on-primary-fixed-variant': '#6e3900', 'surface-container-high': '#ece8e0', 'surface-variant': '#e7e2da', 'on-error-container': '#93000a', 'primary-fixed': '#ffdcc3', 'on-background': '#1d1c17', 'surface-tint': '#904d00', 'on-tertiary': '#ffffff', 'on-surface': '#1d1c17', 'background': '#fef9f1', 'surface-container-highest': '#e7e2da', 'surface-dim': '#ded9d2', 'surface-container': '#f2ede5', 'primary-fixed-dim': '#ffb77d', 'inverse-on-surface': '#f5f0e8', 'on-secondary-container': '#5d1900' }, 'borderRadius': { 'DEFAULT': '0.25rem', 'lg': '0.5rem', 'xl': '0.75rem', 'full': '9999px' }, 'spacing': { 'gutter': '1rem', 'space-xl': '2rem', 'margin-desktop': '3rem', 'space-md': '1rem', 'space-lg': '1.5rem', 'space-xs': '0.25rem', 'margin-tablet': '2rem', 'margin': '1rem', 'gutter-tablet': '1.5rem', 'space-sm': '0.5rem' }, 'fontFamily': { 'headline-md': ['Epilogue'], 'display-lg': ['Epilogue'], 'headline-lg-mobile': ['Epilogue'], 'title-md': ['Plus Jakarta Sans'], 'label-md': ['Plus Jakarta Sans'], 'headline-lg': ['Epilogue'], 'label-lg': ['Plus Jakarta Sans'], 'title-lg': ['Plus Jakarta Sans'], 'label-sm': ['Plus Jakarta Sans'], 'body-lg': ['Plus Jakarta Sans'], 'headline-sm': ['Epilogue'], 'body-md': ['Plus Jakarta Sans'] }, 'fontSize': { 'headline-md': ['24px', { 'lineHeight': '32px', 'fontWeight': '600' }], 'display-lg': ['57px', { 'lineHeight': '64px', 'letterSpacing': '-0.25px', 'fontWeight': '700' }], 'headline-lg-mobile': ['28px', { 'lineHeight': '36px', 'fontWeight': '700' }], 'title-md': ['16px', { 'lineHeight': '24px', 'letterSpacing': '0.15px', 'fontWeight': '600' }], 'label-md': ['12px', { 'lineHeight': '16px', 'letterSpacing': '0.5px', 'fontWeight': '600' }], 'headline-lg': ['32px', { 'lineHeight': '40px', 'fontWeight': '700' }], 'label-lg': ['14px', { 'lineHeight': '20px', 'letterSpacing': '0.1px', 'fontWeight': '600' }], 'title-lg': ['22px', { 'lineHeight': '28px', 'fontWeight': '600' }], 'label-sm': ['11px', { 'lineHeight': '16px', 'letterSpacing': '0.5px', 'fontWeight': '500' }], 'body-lg': ['16px', { 'lineHeight': '24px', 'letterSpacing': '0.5px', 'fontWeight': '400' }], 'headline-sm': ['20px', { 'lineHeight': '28px', 'fontWeight': '600' }], 'body-md': ['14px', { 'lineHeight': '20px', 'letterSpacing': '0.25px', 'fontWeight': '400' }] } } } };</script><style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head><body class="bg-surface text-on-surface font-body-md text-body-md flex flex-col min-h-screen"><header class="fixed top-0 w-full z-50 pt-safe bg-surface/85 backdrop-blur-xl shadow-[0_1px_8px_rgba(41,37,36,0.06)]"><div class="h-16 px-margin flex items-center justify-between gap-space-sm"><div class="flex items-center gap-space-sm min-w-0 flex-1"><img alt="Logo Sabor Perú" class="h-8 w-auto object-contain flex-shrink-0" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBZkILFFtoOVpKr6G2OsRx3ptKU8IwYy7QaUSLVl74FjbxsJpG4UALb2M8-elNwPyIzwBEYwRpVWWbHIoDy6DYSTmUK_zKEaEl5p3DV8MJhxWoUsZtQeU2saNFpnkcYAw0yCutcy4l4AAH-BEJkuF1CDzmWokle6iFM21FMbhrLMZLHMQEBSYvrJo6MmGR2-0CMlgxHtk4sTt8h6ll_H4pcikBA09LSXSVEn9oDszg"/><div class="flex flex-col min-w-0"><span class="font-headline-sm text-headline-sm text-primary leading-tight tracking-tight truncate">Sabor Perú</span><span class="font-label-sm text-label-sm text-on-surface-variant truncate">Inicio</span></div></div><div class="flex items-center gap-space-xs flex-shrink-0"><button aria-label="Buscar recetas" class="w-11 h-11 flex items-center justify-center rounded-full text-on-surface-variant hover:text-on-surface hover:bg-surface-container active:bg-surface-container-high transition-colors"><span class="material-symbols-outlined text-[24px]">search</span></button><button aria-label="Perfil de usuario" class="w-11 h-11 flex items-center justify-center rounded-full hover:opacity-90 active:scale-95 transition-all"><img alt="Profile" class="w-8 h-8 rounded-full object-cover shadow-[0_1px_4px_rgba(41,37,36,0.15)]" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDd5B6W0Ym50XaPTFODQIX3dEdbkVppMM-UZe-RSeDctRMg46cUkeOKw8XVdP4sG2eNZ2j5URauaTv7-lLcae426A3fs21GJ38xAfIJJ5Akmlz4FsRPOJF-zl4eK4jSc51z9wj7EsjJOw2Nr2IZmKOcC5mfZF3uq5IXeTTNVBjHdPP5tFLQLcizDUhyvJmjYmpYmTO_93WwtK1gDFITpU9Eab4FrQ5QStEsdcWD2e4"/></button></div></div></header><main class="flex-1 flex flex-col relative w-full pt-16 pb-24 bg-surface min-h-screen"><div class="flex flex-col w-full">
+<div class="px-margin pt-space-md pb-space-sm flex items-center justify-between">
+<div class="flex flex-col min-w-0">
+<div class="flex items-center gap-space-xs">
+<span class="font-headline-lg-mobile text-headline-lg-mobile text-on-surface tracking-tight">¡Buen provecho, Lucía!</span>
+<span class="text-[22px] animate-bounce">🍋</span>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant mt-0.5">Descubre el auténtico sabor del Perú</p>
+</div>
+<div class="flex items-center justify-center w-10 h-10 rounded-full bg-secondary-fixed text-on-secondary-fixed shadow-sm flex-shrink-0">
+<span class="material-symbols-outlined text-[20px]" style="font-variation-settings: 'FILL' 1;">restaurant_menu</span>
+</div>
+</div>
+<div class="px-margin my-space-sm">
+<div class="w-full flex items-center bg-surface-container rounded-full px-space-md py-2.5 shadow-sm gap-space-sm">
+<span class="material-symbols-outlined text-outline text-[22px]">search</span>
+<input class="w-full bg-transparent text-on-surface font-body-md text-body-md placeholder-outline focus:outline-none" placeholder="¿Qué antojo tienes hoy? (p. ej. Lomo Saltado)" type="text"/>
+<button class="w-8 h-8 rounded-full bg-surface-container-high flex items-center justify-center text-on-surface-variant hover:text-primary transition-colors flex-shrink-0">
+<span class="material-symbols-outlined text-[18px]">tune</span>
+</button>
+</div>
+</div>
+<div class="w-full overflow-x-auto no-scrollbar py-space-xs px-margin flex items-center gap-space-sm">
+<button class="filter-chip px-space-md py-1.5 rounded-full bg-primary text-on-primary font-label-md text-label-md whitespace-nowrap shadow-sm flex items-center gap-1.5 transition-all active:scale-95">
+<span class="material-symbols-outlined text-[16px]">check</span>
+<span>Comidas</span>
+</button>
+<button class="filter-chip px-space-md py-1.5 rounded-full bg-surface-container-high text-on-surface-variant font-label-md text-label-md whitespace-nowrap shadow-sm hover:bg-surface-container-highest transition-all active:scale-95">
+      Bebidas
+    </button>
+<button class="filter-chip px-space-md py-1.5 rounded-full bg-surface-container-high text-on-surface-variant font-label-md text-label-md whitespace-nowrap shadow-sm hover:bg-surface-container-highest transition-all active:scale-95">
+      Postres
+    </button>
+<button class="filter-chip px-space-md py-1.5 rounded-full bg-surface-container-high text-on-surface-variant font-label-md text-label-md whitespace-nowrap shadow-sm hover:bg-surface-container-highest transition-all active:scale-95 flex items-center gap-1">
+<span class="material-symbols-outlined text-[16px] text-secondary">timer</span>
+      Fácil (&lt;30 min)
+    </button>
+</div>
+<div class="px-margin mt-space-lg mb-space-sm flex items-center justify-between">
+<div class="flex items-center gap-space-xs">
+<span class="w-2.5 h-2.5 rounded-full bg-primary"></span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface">Explora por Región</h2>
+</div>
+<a class="font-label-md text-label-md text-primary flex items-center gap-0.5" href="#">
+      Ver mapa <span class="material-symbols-outlined text-[16px]">chevron_right</span>
+</a>
+</div>
+<div class="w-full overflow-x-auto no-scrollbar px-margin flex gap-space-md pb-space-sm">
+<div class="flex-shrink-0 w-64 rounded-2xl bg-surface-container overflow-hidden shadow-sm flex flex-col group active:scale-[0.98] transition-transform">
+<div class="relative h-36 w-full">
+<img class="w-full h-full object-cover" data-alt="Plato costero peruano con ceviche fresco coronado con rodajas de ají limo rojo y choclo desgranado sobre un fondo costero soleado en el Pacífico, fotografía gastronómica profesional de alta resolución con iluminación natural cálida." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDL0ZLGYPKgTlQRdDPe-87SBXlFuAMVY18as4X1gjhskAmgJDza5kTb7g8rjj-FgdQWkK0OSHyAoWtyyF41545HVsefyNc9wqLPc1wnTCfyJLjFdJLceY1HB-i9Ex4BtRUghxUTOk9iMROanaByq7Vecuo7pEGIxURyWpv3plKbXp0NJ7TOZI4m-j42Kk_aTi1E7f2FPNYHa1RLHNnO5yWyaS3nuqsZg9wDZFGL3s8"/>
+<span class="absolute top-2.5 right-2.5 bg-inverse-surface/80 text-inverse-on-surface backdrop-blur-md px-2 py-0.5 rounded-full font-label-sm text-label-sm">84 recetas</span>
+<span class="absolute bottom-2.5 left-2.5 bg-secondary text-on-secondary px-2.5 py-0.5 rounded-full font-label-sm text-label-sm">Costa</span>
+</div>
+<div class="p-space-sm flex flex-col flex-1 justify-between">
+<p class="font-body-md text-body-md text-on-surface-variant line-clamp-2">Ceviches, criollos y causas marinadas con ají amarillo.</p>
+<div class="mt-space-sm flex items-center justify-between text-primary font-label-sm text-label-sm">
+<span>Explorar platos</span>
+<span class="material-symbols-outlined text-[18px]">arrow_forward</span>
+</div>
+</div>
+</div>
+<div class="flex-shrink-0 w-64 rounded-2xl bg-surface-container overflow-hidden shadow-sm flex flex-col group active:scale-[0.98] transition-transform">
+<div class="relative h-36 w-full">
+<img class="w-full h-full object-cover" data-alt="Olla de barro andina humeante con pachamanca tradicional cocida con hierbas aromáticas andinas huacatay y chincho, choclos tiernos y papas nativas multicolores, iluminación de atardecer en los Andes peruanos." src="https://lh3.googleusercontent.com/aida-public/AB6AXuB87qny_fvW1e82bhxheZNUAGdJJZhoNt6JKzTYSjX49JNnaV7G0YxaQJgLkfJnwRlh6W4xLROEszKtDGeJdkpOaSYQZaWDd3RQG7PwsqIDQIwoRJJhPsr3j6bE3iI07IDN2sYrCpJAQfBbpJOOLvV7o_Phop1e24S9_5bFZKI6zgKODQwy8GxpoW2pK6GL5OKZnLNXrrx1jcaODw_AuuuqZw6OEUXydUYiaUtTzz8"/>
+<span class="absolute top-2.5 right-2.5 bg-inverse-surface/80 text-inverse-on-surface backdrop-blur-md px-2 py-0.5 rounded-full font-label-sm text-label-sm">65 recetas</span>
+<span class="absolute bottom-2.5 left-2.5 bg-primary text-on-primary px-2.5 py-0.5 rounded-full font-label-sm text-label-sm">Sierra</span>
+</div>
+<div class="p-space-sm flex flex-col flex-1 justify-between">
+<p class="font-body-md text-body-md text-on-surface-variant line-clamp-2">Pachamancas, truchas y aromas andinos ancestrales.</p>
+<div class="mt-space-sm flex items-center justify-between text-primary font-label-sm text-label-sm">
+<span>Explorar platos</span>
+<span class="material-symbols-outlined text-[18px]">arrow_forward</span>
+</div>
+</div>
+</div>
+<div class="flex-shrink-0 w-64 rounded-2xl bg-surface-container overflow-hidden shadow-sm flex flex-col group active:scale-[0.98] transition-transform">
+<div class="relative h-36 w-full">
+<img class="w-full h-full object-cover" data-alt="Plato amazónico de Juane tradicional envuelto en hojas de bijao abierto, acompañado de cecina ahumada, bolas doradas de tacacho y ajicito de cocona fresco, estética de selva tropical peruana brillante y apetitosa." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBvuh1V1y9N1BVHd2xQY-HgFY0w3da2b-jWX44MtJDS5MLZdym8GbbL73aF98DN4MdOHHCFLI3By5sep9xC81fC4go61U2y1uAG3sgR9fb51_0lmozhLAfS23R6hevQbqNC8v7OY-Q96UtJHajtysJl7MBOeK2J89yLWOeVpEsOkskzmIcedIhZq8ddT2PZM_1lb46LfpPkGU_b4agev2uDfsCvSinfCNn1F3FL18U"/>
+<span class="absolute top-2.5 right-2.5 bg-inverse-surface/80 text-inverse-on-surface backdrop-blur-md px-2 py-0.5 rounded-full font-label-sm text-label-sm">48 recetas</span>
+<span class="absolute bottom-2.5 left-2.5 bg-tertiary text-on-tertiary px-2.5 py-0.5 rounded-full font-label-sm text-label-sm">Selva</span>
+</div>
+<div class="p-space-sm flex flex-col flex-1 justify-between">
+<p class="font-body-md text-body-md text-on-surface-variant line-clamp-2">Juane, cecina con tacacho y ají de cocona silvestre.</p>
+<div class="mt-space-sm flex items-center justify-between text-primary font-label-sm text-label-sm">
+<span>Explorar platos</span>
+<span class="material-symbols-outlined text-[18px]">arrow_forward</span>
+</div>
+</div>
+</div>
+</div>
+<div class="px-margin mt-space-lg mb-space-sm flex items-center justify-between">
+<div class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-secondary text-[22px]">local_fire_department</span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface">Receta del Día</h2>
+</div>
+<span class="font-label-sm text-label-sm px-2 py-0.5 rounded-full bg-secondary-fixed text-on-secondary-fixed font-semibold">Destacado</span>
+</div>
+<div class="px-margin mb-space-md">
+<div class="relative rounded-2xl bg-surface-container-high overflow-hidden shadow-md flex flex-col">
+<div class="relative h-52 w-full">
+<img class="w-full h-full object-cover" data-alt="Primer plano de un Ceviche Clásico Limeño de corvina fresca servido en plato artesanal de cerámica con leche de tigre brillante, rodajas finas de cebolla morada crujiente, camote glaseado y choclo gigante desgranado, iluminación suave de mediodía." src="https://lh3.googleusercontent.com/aida-public/AB6AXuA0PqcoDJFTvHIrtPJ_YreE9-8xZJxFK4BMf9jSFnRgen28aaIC6CjwtAHO7W0iKos8O-KvLa77j70s_QC6HepsvxVOPcvzbZokO5IeKMA1Qo_UQ8msFcBW1rlBqMXOqI3XOpbnI5Ng_U4WYtwZ6-slfCxuDMKd7E7uGMxmoQ3UGjefQvqPghQv_fH94bvsqoeYO3oYBqXzr22GZX0eQX5q3qrlvovHek_aawr0W4c"/>
+<div class="absolute inset-0 bg-gradient-to-t from-inverse-surface/80 via-transparent to-transparent"></div>
+<div class="absolute top-3 right-3 flex items-center gap-1.5">
+<button class="w-9 h-9 rounded-full bg-surface-container-lowest/80 backdrop-blur-md flex items-center justify-center text-secondary active:scale-90 transition-transform shadow-sm" id="favoriteBtn">
+<span class="material-symbols-outlined text-[20px]" style="font-variation-settings: 'FILL' 1;">favorite</span>
+</button>
+</div>
+<div class="absolute bottom-3 left-3 right-3 flex items-center justify-between text-surface-container-lowest">
+<div class="flex items-center gap-1.5 bg-inverse-surface/60 backdrop-blur-md px-2.5 py-1 rounded-full">
+<span class="material-symbols-outlined text-amber-300 text-[18px]" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="font-label-md text-label-md font-bold">4.9</span>
+<span class="text-label-sm text-outline-variant">(1.2k reseñas)</span>
+</div>
+<span class="font-label-sm text-label-sm px-2.5 py-1 rounded-full bg-secondary text-on-secondary font-medium">Intermedio</span>
+</div>
+</div>
+<div class="p-space-md flex flex-col gap-space-sm bg-surface-container">
+<div class="flex flex-col">
+<h3 class="font-headline-sm text-headline-sm text-on-surface">Ceviche Clásico Limeño</h3>
+<p class="font-body-md text-body-md text-on-surface-variant line-clamp-2 mt-0.5">La joya de la gastronomía peruana: pescado fresco curado al instante con jugo de limón sutil, ají limo y cilantro fresco.</p>
+</div>
+<div class="flex items-center justify-between py-space-xs px-space-sm rounded-xl bg-surface-container-low text-on-surface-variant font-label-md text-label-md">
+<div class="flex items-center gap-1.5">
+<span class="material-symbols-outlined text-[18px] text-primary">schedule</span>
+<span>25 min</span>
+</div>
+<div class="flex items-center gap-1.5">
+<span class="material-symbols-outlined text-[18px] text-primary">group</span>
+<span>4 porciones</span>
+</div>
+<div class="flex items-center gap-1.5">
+<span class="material-symbols-outlined text-[18px] text-secondary">whatshot</span>
+<div class="flex gap-0.5 text-secondary">
+<span class="text-[12px]">🌶️</span>
+<span class="text-[12px]">🌶️</span>
+</div>
+</div>
+</div>
+<button class="w-full mt-space-xs py-3 rounded-full bg-primary text-on-primary font-label-lg text-label-lg font-semibold shadow-sm hover:bg-primary-container active:scale-[0.99] transition-all flex items-center justify-center gap-2">
+<span>Ver receta completa</span>
+<span class="material-symbols-outlined text-[20px]">arrow_forward</span>
+</button>
+</div>
+</div>
+</div>
+<div class="px-margin mt-space-lg mb-space-sm flex items-center justify-between">
+<div class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-[22px]">category</span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface">Categorías Populares</h2>
+</div>
+</div>
+<div class="px-margin flex flex-col gap-space-md">
+<div class="flex flex-col gap-space-xs">
+<div class="flex items-center justify-between">
+<span class="font-title-md text-title-md text-on-surface font-semibold flex items-center gap-1.5">
+<span class="text-[18px]">🥂</span> Bebidas Emblemáticas
+        </span>
+<a class="font-label-sm text-label-sm text-primary" href="#">Ver todas (18)</a>
+</div>
+<div class="grid grid-cols-3 gap-space-sm mt-1">
+<div class="flex flex-col bg-surface-container rounded-xl overflow-hidden shadow-sm group active:scale-95 transition-transform">
+<div class="relative h-24 w-full">
+<img class="w-full h-full object-cover" data-alt="Cóctel Pisco Sour Catedral espumoso servido en copa alta de cristal con tres gotas de amargo de angostura sobre la densa espuma blanca, fondo de bar criollo limeño acogedor." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAwIe_Cv7KQo9QJpB-x7XDESUXwUY4uW5WDual5-xeJtXM7TIwGfJpj5SNrTrfoBsxfNA5m6NJ8yEqcEI9GDziVvzjFrbNYTIcz195z3B1VMQ-MisCLfD1BjryVYsyZ7v7VzMvV9lhF623LGjmbx83Bymh0QgQFpbSC3B64utJcKzADU5887nl3bJweeBthHbcbng1-inrW5ngZU0BSn-z7ebNynETwwefAMZ7N2Hg"/>
+</div>
+<div class="p-2 flex flex-col">
+<span class="font-label-md text-label-md text-on-surface font-semibold truncate">Pisco Sour</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">Catedral</span>
+</div>
+</div>
+<div class="flex flex-col bg-surface-container rounded-xl overflow-hidden shadow-sm group active:scale-95 transition-transform">
+<div class="relative h-24 w-full">
+<img class="w-full h-full object-cover" data-alt="Jarra de vidrio con Chicha Morada casera peruana bien fría con cubitos de hielo, rodajas de manzana picada, canela entera y trozos de piña, color púrpura oscuro y translúcido." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDbSXQRf9-Dnhbk4CAXaKUIfFbQ9_gbZ8oEJyEfkCp9N5tIYIx88g98WcElKa_TgwcTa-9pBafhjxoZl46mhfwPHfGsRrfAVxHDEJNdLohZQ6sIFUxyLsigE0mhE1k6SgPVA0amRZUML7ApGBdySOSBAHPsBoGHN-G2enMTo4UeAFuzauzgE2jlHk07f4oqVqP2u1EHiAMe9LJm4ruZ95N0zBI0kT_lajjBGGurjcM"/>
+</div>
+<div class="p-2 flex flex-col">
+<span class="font-label-md text-label-md text-on-surface font-semibold truncate">Chicha Morada</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">Casera</span>
+</div>
+</div>
+<div class="flex flex-col bg-surface-container rounded-xl overflow-hidden shadow-sm group active:scale-95 transition-transform">
+<div class="relative h-24 w-full">
+<img class="w-full h-full object-cover" data-alt="Vaso humeante de Emoliente Andino tradicional servido en carreta limeña, con hierbas medicinales, linaza espesa, gotas de limón fresco y alfalfa." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBo4Isj5fKl0h2KiqPOcRlRH300dwUEOnED2rAtV36qWnn02cZ63LwlMih7DN-S9SDYe31NrLRVuutPsHptYb1i8iZFt4CB91Lo-UKw7LwXY2m9Wepojk-gxlw2FqVqq8VeURAWBD7fXiIryOEChsjMyScKIRQuWfl_YLgo6ikGv2D8XSwsQaAd-7UDMbLhDAN6tB3Bp_WGxCq7goQZNujXEtzR9gG3RBhT5EYm8eg"/>
+</div>
+<div class="p-2 flex flex-col">
+<span class="font-label-md text-label-md text-on-surface font-semibold truncate">Emoliente</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">Andino Caliente</span>
+</div>
+</div>
+</div>
+</div>
+<div class="flex flex-col gap-space-xs mt-space-xs">
+<div class="flex items-center justify-between">
+<span class="font-title-md text-title-md text-on-surface font-semibold flex items-center gap-1.5">
+<span class="text-[18px]">🍯</span> Postres Tradicionales
+        </span>
+<a class="font-label-sm text-label-sm text-primary" href="#">Ver todas (24)</a>
+</div>
+<div class="grid grid-cols-3 gap-space-sm mt-1">
+<div class="flex flex-col bg-surface-container rounded-xl overflow-hidden shadow-sm group active:scale-95 transition-transform">
+<div class="relative h-24 w-full">
+<img class="w-full h-full object-cover" data-alt="Copa elegante con Suspiro a la Limeña auténtico mostrando la base de manjar blanco aterciopelado coronada con merengue al oporto y espolvoreada con canela molida fina." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBt_GRQoAc8AlvP8AKsMPTbUAyWXy_xrLISyPj_swy182UE-Tgtb52buwXKaII2bqgCUDBNfTN-N6ES-yEPZGCpPFTlnq9gka6avKIaboYuxG168Rxd5C0dtyyppqewW7b_QnbJYF9EKBCzw0-uQ3QUE5BXk1oYwGSVu_K2Wp6CDE155puzgd6Oq7EmKFhV4LTcT9kZmIp57Uj2bk2kJvDxG45j8VozLp_bd6TvoYw"/>
+</div>
+<div class="p-2 flex flex-col">
+<span class="font-label-md text-label-md text-on-surface font-semibold truncate">Suspiro Limeño</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">Tradicional</span>
+</div>
+</div>
+<div class="flex flex-col bg-surface-container rounded-xl overflow-hidden shadow-sm group active:scale-95 transition-transform">
+<div class="relative h-24 w-full">
+<img class="w-full h-full object-cover" data-alt="Plato hondo con picarones calientes recién fritos en forma de aros crujientes de camote y zapato macre bañados abundantemente con miel perfumada de chancaca y hojas de higo." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDq_Qhkq1gRx1IXgt3sa6nkGP2z5Q4CauCuyH47xINsfzOh7Aruf0UedO7uXmizTsEQNjm1Qc_2U71Bn2PBwLBv6oeh4dLtZYjnIs4f0zZtF733kyzLxP3hTrY8fxmGp_RFP9wGCUBx4R7uPH-jMwOvNPcFz3ymbg4crpDFj-67BOuSJbM1g3wm7wE-JFPcYoNbAh5Kzcem2CCl-IMMeGRPlEts-Ixtjc6FGO7hWko"/>
+</div>
+<div class="p-2 flex flex-col">
+<span class="font-label-md text-label-md text-on-surface font-semibold truncate">Picarones</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">Miel de Chancaca</span>
+</div>
+</div>
+<div class="flex flex-col bg-surface-container rounded-xl overflow-hidden shadow-sm group active:scale-95 transition-transform">
+<div class="relative h-24 w-full">
+<img class="w-full h-full object-cover" data-alt="Porción artesanal de Queso Helado arequipeño servida en plato rústico con aroma a canela molida, leche fresca reducida con clavo de olor y coco rallado." src="https://lh3.googleusercontent.com/aida-public/AB6AXuALw4aT209-O-f2fdnjmcbcZfEvW3aO4-9vSnICiXfZVavY0R8N1gKLLwLQycWZ8Ly5hccCC7_xqVHJbJ3EeQpz9QeyT37Yljuf_2aBptTVzo5kcGxhEAdjqRbl6DyoA1aUZVjKj0aRRp35LAl4fZorud268yf5hj5steU8YhJIDisP7aAZtjEr8qbhnRTc_15sPKEFR-HiDyAbBjFd8z0C1m5flgksf8gxL-LgCak"/>
+</div>
+<div class="p-2 flex flex-col">
+<span class="font-label-md text-label-md text-on-surface font-semibold truncate">Queso Helado</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">Arequipeño</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="px-margin mt-space-lg mb-space-lg">
+<div class="p-space-md rounded-2xl bg-surface-container-high shadow-sm flex flex-col gap-space-sm">
+<div class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-primary text-[24px]">menu_book</span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface">Secretos de la Cocina Peruana</h2>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant">Los tres pilares esenciales que transforman cualquier platillo casero en una experiencia gourmet criolla.</p>
+<div class="flex flex-col gap-space-sm mt-space-xs">
+<div class="flex items-start gap-space-sm p-space-sm rounded-xl bg-surface-container-low">
+<div class="w-10 h-10 rounded-full bg-secondary-fixed text-on-secondary-fixed flex items-center justify-center flex-shrink-0 font-bold font-title-md">
+            1
+          </div>
+<div class="flex flex-col">
+<span class="font-title-md text-title-md text-on-surface font-semibold">Pasta de Ají Amarillo Casera</span>
+<p class="font-body-md text-body-md text-on-surface-variant mt-0.5">Hierve los ajíes despepitados tres veces cambiando el agua para quitar el exceso de picor y resaltar su aroma frutal antes de licuar con aceite vegetal.</p>
+</div>
+</div>
+<div class="flex items-start gap-space-sm p-space-sm rounded-xl bg-surface-container-low">
+<div class="w-10 h-10 rounded-full bg-primary-fixed text-on-primary-fixed flex items-center justify-center flex-shrink-0 font-bold font-title-md">
+            2
+          </div>
+<div class="flex flex-col">
+<span class="font-title-md text-title-md text-on-surface font-semibold">El Sofrito Criollo Paciente</span>
+<p class="font-body-md text-body-md text-on-surface-variant mt-0.5">Cebolla roja picada finísima cocinada a fuego lento hasta quedar translúcida; añade ajo y ají panca solo cuando la cebolla ya esté suave y dulce.</p>
+</div>
+</div>
+<div class="flex items-start gap-space-sm p-space-sm rounded-xl bg-surface-container-low">
+<div class="w-10 h-10 rounded-full bg-tertiary-fixed text-on-tertiary-fixed flex items-center justify-center flex-shrink-0 font-bold font-title-md">
+            3
+          </div>
+<div class="flex flex-col">
+<span class="font-title-md text-title-md text-on-surface font-semibold">El Curado Preciso del Pescado</span>
+<p class="font-body-md text-body-md text-on-surface-variant mt-0.5">No ahogues el pescado en limón con anticipación. El ceviche limeño moderno se mezcla y se sirve de inmediato para conservar la textura firme del marisco.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  (function() {
+    const chips = document.querySelectorAll('.filter-chip');
+    chips.forEach(chip => {
+      chip.addEventListener('click', () => {
+        chips.forEach(c => {
+          c.classList.remove('bg-primary', 'text-on-primary');
+          c.classList.add('bg-surface-container-high', 'text-on-surface-variant');
+          const check = c.querySelector('.material-symbols-outlined');
+          if (check && check.innerText === 'check') check.remove();
+        });
+        chip.classList.remove('bg-surface-container-high', 'text-on-surface-variant');
+        chip.classList.add('bg-primary', 'text-on-primary');
+        if (!chip.querySelector('.material-symbols-outlined')) {
+          const checkIcon = document.createElement('span');
+          checkIcon.className = 'material-symbols-outlined text-[16px] mr-1';
+          checkIcon.innerText = 'check';
+          chip.prepend(checkIcon);
+        }
+      });
+    });
+
+    const fav = document.getElementById('favoriteBtn');
+    if (fav) {
+      fav.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const icon = fav.querySelector('span');
+        if (icon.innerText === 'favorite') {
+          icon.innerText = 'favorite_border';
+          fav.classList.remove('text-secondary');
+          fav.classList.add('text-on-surface-variant');
+        } else {
+          icon.innerText = 'favorite';
+          fav.classList.remove('text-on-surface-variant');
+          fav.classList.add('text-secondary');
+        }
+      });
+    }
+  })();
+</script></main><nav class="fixed bottom-0 w-full z-50 pb-safe bg-surface/90 backdrop-blur-xl shadow-[0_-2px_12px_rgba(41,37,36,0.06)]" data-active-classes="text-primary font-bold"><div class="flex items-center justify-around h-16 px-space-xs"><a aria-current="page" class="flex flex-col items-center justify-center flex-1 h-full py-1 transition-colors text-primary font-bold" data-path="inicio" href="#"><span class="material-symbols-outlined text-[24px]">home</span><span class="font-label-sm text-label-sm mt-0.5 tracking-tight">Inicio</span></a><a class="flex flex-col items-center justify-center flex-1 h-full py-1 text-on-surface-variant hover:text-on-surface transition-colors" data-path="regiones" href="#"><span class="material-symbols-outlined text-[24px]">explore</span><span class="font-label-sm text-label-sm mt-0.5 tracking-tight">Regiones</span></a><a class="flex flex-col items-center justify-center flex-1 h-full py-1 text-on-surface-variant hover:text-on-surface transition-colors" data-path="favoritos" href="#"><span class="material-symbols-outlined text-[24px]">favorite</span><span class="font-label-sm text-label-sm mt-0.5 tracking-tight">Favoritos</span></a><a class="flex flex-col items-center justify-center flex-1 h-full py-1 text-on-surface-variant hover:text-on-surface transition-colors" data-path="planificador" href="#"><span class="material-symbols-outlined text-[24px]">calendar_month</span><span class="font-label-sm text-label-sm mt-0.5 tracking-tight">Planificador</span></a></div></nav></body></html>

@@ -1,0 +1,4 @@
+#Sat Oct 31 04:11:59 PET 2026
+base.0=D\:\\AndroidStudioProjects\\Recetas Peruanas\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

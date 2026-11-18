@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_pisco_sour.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/pisco_sour.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_emoliente.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/emoliente.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_queso_helado_arequipa.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/queso_helado_arequipa.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_lomo_wok.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/lomo_wok.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_lomo_saltado.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/lomo_saltado.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_mate_muna.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/mate_muna.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_tacacho.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/tacacho.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/font_plus_jakarta_regular.ttf.flat",
+        "source": "com.saborperu.app-main-55:/font/plus_jakarta_regular.ttf"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_ceviche.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/ceviche.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_region_sierra.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/region_sierra.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_chicha_jora.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/chicha_jora.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_region_selva.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/region_selva.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_juane.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/juane.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_lomo_market.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/lomo_market.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/font_epilogue_bold.ttf.flat",
+        "source": "com.saborperu.app-main-55:/font/epilogue_bold.ttf"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_patarashca.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/patarashca.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.saborperu.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/font_epilogue_semibold.ttf.flat",
+        "source": "com.saborperu.app-main-55:/font/epilogue_semibold.ttf"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_suspiro.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/suspiro.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_mousse_copoazu.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/mousse_copoazu.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_rocoto_relleno.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/rocoto_relleno.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_chicha_morada.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/chicha_morada.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_region_costa.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/region_costa.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_picarones.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/picarones.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_camu_camu.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/camu_camu.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_pachamanca.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/pachamanca.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_profile.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/profile.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_juane_market.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/juane_market.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_trucha_frita.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/trucha_frita.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_queso_helado.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/queso_helado.jpg"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.saborperu.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/font_plus_jakarta_medium.ttf.flat",
+        "source": "com.saborperu.app-main-55:/font/plus_jakarta_medium.ttf"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/font_plus_jakarta_semibold.ttf.flat",
+        "source": "com.saborperu.app-main-55:/font/plus_jakarta_semibold.ttf"
+    },
+    {
+        "merged": "com.saborperu.app-debug-53:/drawable-nodpi_inchicapi.jpg.flat",
+        "source": "com.saborperu.app-main-55:/drawable-nodpi/inchicapi.jpg"
+    }
+]
